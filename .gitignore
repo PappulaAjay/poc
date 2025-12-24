@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.python-version
+
+# Streamlit / runs
+runs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
